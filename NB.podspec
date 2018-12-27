@@ -32,6 +32,8 @@ TODO: Add long description of the pod here.
 
   s.source_files = 'NB/Classes/**/*'
   
+  s.resources = ['NB/Assets/*.xcassets']
+
   # s.resource_bundles = {
   #   'NB' => ['NB/Assets/*.png']
   # }
